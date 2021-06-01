@@ -1,0 +1,10 @@
+print("This is the first line")
+print("This")
+print("is")
+print("some")
+print("more")
+print("lines")
+x = 15+22
+print("fifteen plus 22 is")
+print(str(x))
+print("The end")
